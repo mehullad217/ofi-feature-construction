@@ -22,7 +22,7 @@ Each feature is aligned with the paper's definitions and aggregated at the 1-sec
 
 | File | Description |
 |------|-------------|
-| `Trial_Task(Order_Flow_Imbalance).ipynb` | Clean, modular script to compute all OFI features |
+| `OFI_Feature_Engineering_Task.ipynb` | Clean, modular script to compute all OFI features |
 | `ofi_conceptual_answers.pdf` | Written answers to conceptual questions |
 | `first_25000_rows.csv` | Sample LOB data used for feature construction |
 
@@ -52,7 +52,7 @@ Plots and interpretations are available in the notebook.
 
 ## 🛠 How to Run
 
-Clone the repo and run the Trial_Task(Order_Flow_Imbalance):
+Clone the repo and run the OFI_Feature_Engineering_Task:
 
 ```bash
-python Trial_Task(Order_Flow_Imbalance).ipynb
+python OFI_Feature_Engineering_Task.ipynb
